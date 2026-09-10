@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "0.2.0",
+  "versionCode": 4,
+  "versionName": "0.3.0",
   "minApiVersion": 1,
-  "apkUrl": "https://github.com/woaimidi/freeview-releases/releases/download/tv-v0.2.0/FreeView-TV-0.2.0.apk",
-  "notes": "手机投屏与遥控：设置页生成配对码/二维码，手机扫码后可把正在看的内容推到电视继续播，并当遥控器用（播放暂停、拖进度、切集、换线路、音量）。需服务端支持投屏；老服务端上这一块不显示。",
-  "publishedAt": "2026-09-10"
+  "apkUrl": "https://github.com/woaimidi/freeview-releases/releases/download/tv-v0.3.0/FreeView-TV-0.3.0.apk",
+  "notes": "手机投屏与遥控：手机扫码配对后，可把正在看的内容推到电视继续播，并当遥控器用。自动跳过片头：记住你手动跳到第几秒，之后每一集都从那里起播，跳错了按 OK 从头播放。收藏：详情页可收藏，首页新增「收藏」行。从旧版升级不会清空观看历史。",
+  "publishedAt": "2026-09-11"
 }
