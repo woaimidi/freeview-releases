@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "0.3.1",
+  "versionCode": 6,
+  "versionName": "0.3.2",
   "minApiVersion": 1,
-  "apkUrl": "https://github.com/woaimidi/freeview-releases/releases/download/tv-v0.3.1/FreeView-TV-0.3.1.apk",
-  "notes": "修复开机后偶发「连不上服务器：服务器地址未配置」——地址一直存着，只是开机瞬间还没读出来就发了第一个请求，设备越慢越容易碰到。功能与 0.3.0 相同（手机投屏遥控、自动跳过片头、收藏），升级不会清空观看历史。",
-  "publishedAt": "2026-09-12"
+  "apkUrl": "https://github.com/woaimidi/freeview-releases/releases/download/tv-v0.3.2/FreeView-TV-0.3.2.apk",
+  "notes": "选集不再显示被截断的片名，统一显示「第N集」，同一集的多个变体（上/下、预告）也能区分。引导页预填服务器地址，新装的电视直接确认即可，不必用遥控器敲网址；已保存的地址不受影响。修复选粤语版却播成别的线路、手机投屏指定位置不生效的问题。升级不会清空观看历史。",
+  "publishedAt": "2026-10-11"
 }
